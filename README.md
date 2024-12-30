@@ -22,19 +22,19 @@ Welcome to my GitHub profile! I'm passionate about **Computer Science** and alwa
 - ![C++](ttps://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ### 🛠️ Tools & Technologies:
-- ![Colmap](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Pytorch](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![HPC](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Latex](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- ![Typst](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- ![Colmap](https://img.shields.io/badge/Colmap-2C2C2C?style=flat&logo=colmap&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![HPC](https://img.shields.io/badge/High_Performance_Computing-0096D6?style=flat&logo=supermicro&logoColor=white)
+- ![Typst](https://img.shields.io/badge/Typst-3B82F6?style=flat&logo=typst&logoColor=white)
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ---
 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eddie-cui&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie-cui&layout=compact&theme=radical)
 
 ---
 
