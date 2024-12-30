@@ -19,7 +19,9 @@ Welcome to my GitHub profile! I'm passionate about **Computer Science** and alwa
 
 ### 🧰 Programming Languages:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![C++](ttps://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🛠️ Tools & Technologies:
 - ![Colmap](https://img.shields.io/badge/Colmap-2C2C2C?style=flat&logo=colmap&logoColor=white)
