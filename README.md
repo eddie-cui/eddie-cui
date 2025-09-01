@@ -6,12 +6,11 @@ Welcome to my GitHub profile! I'm passionate about **Computer Science** and alwa
 
 ## 🌟 About Me
 
-- 🎓 **Background:** ShanghaiTech University(Undergraduate)
+- 🎓 **Background:** ShanghaiTech University(Undergraduate) & UC Berkeley Exchange
 - 🎓 **Major** Computer Science
-- 💻 **What I do:** 3D Reconstruction Applied to Scientific Archaeology
-- 🌱 **Currently learning:** Computer algorithms and data structures
+- 💻 **What I do:** Embodied AI(3D policy) and 3D reconstruction
+- 🌱 **Currently learning:** Introduction to Machine Learning
 - 💡 **Interests:** ***Embodied Intelligence*** and ***Computer Vision***
-- 🔭 **Goal for this year:** Complete the Research on MVS in Archaeology
 
 ---
 
