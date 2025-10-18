@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about **Computer Science** and alwa
 ---
 
 ## 🌟 About Me
-
+- 🎓 **Currently:** Exchange in UC Berkeley
 - 🎓 **Background:** ShanghaiTech University(Undergraduate) & UC Berkeley Exchange
 - 🎓 **Major** Computer Science
 - 💻 **What I do:** Embodied AI(3D policy) and 3D reconstruction
