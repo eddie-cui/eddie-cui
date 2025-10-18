@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm eddie-cui!
+# 👋 Hi there, I'm Eddie Cui!
 
 Welcome to my GitHub profile! I'm passionate about **Computer Science** and always eager to learn and collaborate. 
 
