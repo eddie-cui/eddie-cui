@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Eddie Cui(Haozhe CUi)!
+# 👋 Hi there, I'm Eddie Cui(Haozhe Cui)!
 
 Welcome to my GitHub profile! I'm passionate about **Computer Science** and always eager to learn and collaborate. 
 
